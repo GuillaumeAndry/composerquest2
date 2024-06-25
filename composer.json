@@ -1,0 +1,17 @@
+{
+    "name": "guillaume/composer2q",
+    "description": "Composer quête 2",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Guillaume",
+            "email": "guillaume.andry@hotmail.fr"
+        }
+    ],
+    "require": {}
+}
